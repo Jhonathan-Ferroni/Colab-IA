@@ -44,12 +44,12 @@ pip install pandas numpy matplotlib seaborn statsmodels scipy
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Jhonathan-Ferroni/Regressao_Linear.git
 ```
 
 2. Certifique-se de que o arquivo `mt_cars.csv` esteja no mesmo diretório do notebook.
 
-3. Abra o arquivo `Regressao2.ipynb` no Jupyter Notebook ou Google Colab.
+3. Abra o arquivo `Regressao.ipynb` no Jupyter Notebook ou Google Colab.
 
 4. Execute as células sequencialmente para reproduzir a análise.
 
@@ -69,10 +69,6 @@ Ao final da execução do notebook, espera-se obter:
 - Gráficos de dispersão destacando relações entre variáveis.
 - Modelos de regressão com interpretação dos coeficientes.
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
 
 Sinta-se à vontade para contribuir com melhorias ou abrir issues para relatar problemas! 😄
 
